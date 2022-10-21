@@ -14,10 +14,3 @@ Ein praktisches Beispiel findet sich exakt hier. Dieses Markdown-File ist ein e-
 Diese Reflexion ist nicht zum Thema e-Portfolio an sich, sondern reflektiert die gesamte Arbeit. Es handelt sich hierbei also um die Reflexion des erfolgten Praxistransfers.
 
 # Muss noch ergänzt werden!!!
-
-
-- Titel des Themas
-- Erläuterung des Themas und Definitionen
-- Praxistransfer
-- Reflexion
-- Verlinkung zur Lernjournalseite

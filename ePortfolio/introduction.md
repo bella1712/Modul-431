@@ -4,7 +4,9 @@
 --------
 In diesem Portfolio findet sich ein Überblick über die Themen, welche im Modul 431: 
 - E-Portfolio
+- Handlungskompetenzen
 - IPERKA
+- Vorgehensmodelle
 - Kreativitätstechniken
 - Präsentationstechniken
 - Projektmanagement
