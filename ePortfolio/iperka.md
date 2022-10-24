@@ -18,11 +18,17 @@
 
 ### Praxistransfer
 -------
-
+IPERKA kann überall angewendet werden: Sei es das Lösen von Hausaufgaben oder eine Projektplanung. IPERKA hilft bei der Strukturierung von Arbeitsprozessen. Um einen klaren Praxistransfer herstellen zu können, werde ich in diesem Beispiel die Erarbeitung eines Schulprojektes erörtern. Das Schulprojekt ist das erstellen einer Webseite mit Hilfe von HTML und CSS.
+*Als kurze Anmerkung gilt zu sagen, dass das hier beschriebene Projekt nicht der tatsächlichen Definition eines Projektes entspricht. Es handelt sich eher um einen Auftrag als um ein Projekt, aber der Einfachheit halber wird der Auftrag in diesem Abschnitt als Projekt bezeichnet.*  
+Um ein Schulprojekt strukturiert durchzuführen und gute Ergebnisse zu erzielen, ist eine Recherche unabdingbar. Wenn der Inhalt und die Hintergrundinfosnicht klar sind, kann das Projekt nicht gut realisiert werden. In diesem speziellen Beispiel müssen Kenntnisse in HTML und CSS vorhanden sein, damit die Webseite erstellt werden kann. Oder, falls die Kenntnisse noch nicht vorhanden sind, müssen diese erworben werden. Auch müssen Informationen zu den Anforderungen an das Projekt vorhanden sein. 
+Sind die soliden Grundinformationen gesammelt worden, kann die Planung in Angriff genommen werden. In diesem Schritt werden Fragen gefragt: Wer ist an dem Projekt beteiligt, wie soll die Webseite Aussehen, was für Quellen werden konsultiert, wie können die Anforderungen erfüllt werden, wer ist die Zielgruppe meiner Webseite, wie soll das Layout aussehen, etc.
+Es steht sollte nun eine Fülle an Antworten zur Verfügung stehen, daher müssen nun Entscheidungen getroffen werden: Welche der Planungsentwürfe soll umgesetzt werden? Diese Entscheidung wird nun getroffen. 
+Ist die Entscheidung getroffen worden, kommt die Realisierung. Der Entwurf wird nun in die Tat umgesetzt. In diesem Fall bedeutet das, dass die Webseite geschrieben wird. 
+Hat die Realisierung stattgefunden, folgt die Kontrolle: Sind alle Bugs gefixt, entspricht das Produkt den vorgebenenen Anforderungen und ist es bereit in die Produktion zu gehen. In diesem Fall bedeutet das, dass geprüft wird, ob die Webseite veröffentlicht werden kann. 
+Ist das Produkt auf dem Markt, oder in diesem Fall veröffentlicht, folgt die letzte Phase: die Auswertung. In diesem Schritt wird evaluiert was gut und was suboptimal gelaufen ist. Ausserdem wird eine Reflexion vorgenommen. Des Weiteren können in diesem Schritt, je nach Komplexität des Projektes, weitere Analysen wie Marktanalysen evaluiert werden. 
 
 ### Reflexion
 -------
-- Erläuterung des Themas und Definitionen
-- Praxistransfer
-- Reflexion
-- Verlinkung zur Lernjournalseite
+Ich habe festgestellt, dass ich IPERKA bereits, ohne zu wissen, was es ist, oft selbst angewendet habe. Eine Struktur hilft bei der Umsetzung sehr. 
+Wenn es um die Evaluierung von IPERKA selbst geht, so denke ich, dass es helfen kann unorganisierten Menschen eine klar Vorgehensweise zu liefern. Allerdings kann es einen Nachteil geben: Die Kreativität der Leute wird nur in Phase eins und zwei, also der Informations- und Planungsphase, gewünscht. Anders als im Scrum ****(Link einfügen)** ist der Ablauf statisch und lässt nach der Entscheidungsphase keinerlei kreativen Input mehr zu. Nach der Entscheidungsphase wird nur noch Ausgeführt. 
+
