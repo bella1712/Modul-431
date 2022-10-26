@@ -30,5 +30,5 @@ Ist das Produkt auf dem Markt, oder in diesem Fall veröffentlicht, folgt die le
 ### Reflexion
 -------
 Ich habe festgestellt, dass ich IPERKA bereits, ohne zu wissen, was es ist, oft selbst angewendet habe. Eine Struktur hilft bei der Umsetzung sehr. 
-Wenn es um die Evaluierung von IPERKA selbst geht, so denke ich, dass es helfen kann unorganisierten Menschen eine klar Vorgehensweise zu liefern. Allerdings kann es einen Nachteil geben: Die Kreativität der Leute wird nur in Phase eins und zwei, also der Informations- und Planungsphase, gewünscht. Anders als im Scrum ****(Link einfügen)** ist der Ablauf statisch und lässt nach der Entscheidungsphase keinerlei kreativen Input mehr zu. Nach der Entscheidungsphase wird nur noch Ausgeführt. 
+Wenn es um die Evaluierung von IPERKA selbst geht, so denke ich, dass es helfen kann unorganisierten Menschen eine klar Vorgehensweise zu liefern. Allerdings kann es einen Nachteil geben: Die Kreativität der Leute wird nur in Phase eins und zwei, also der Informations- und Planungsphase, gewünscht. Anders als im [Scrum](projektmanagement.md) ist der Ablauf statisch und lässt nach der Entscheidungsphase keinerlei kreativen Input mehr zu. Nach der Entscheidungsphase wird nur noch Ausgeführt. 
 
