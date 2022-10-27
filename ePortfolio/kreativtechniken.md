@@ -15,7 +15,7 @@ Dadurch werden verschiedene Perspektiven angeschaut und verwendet. Dies Fördert
 Viele Kreativitätsmethode wirken so. Sie sollen den Horizont erweitern, die Phantasie beflügeln und vorallem sollen sie eine Person dazu bringen, sich in andere Personen und auch Positionen hineinzuversetzen. 
 
 
-[^1]: [Kreativitätstechniken.info |Walt-Disney-Methode](https://xn--kreativittstechniken-jzb.info/ideen-generieren/walt-disney-methode/)
+[^1]: [Kreativitätstechniken.info | Walt-Disney-Methode](https://xn--kreativittstechniken-jzb.info/ideen-generieren/walt-disney-methode/)
 ### Praxistransfer
 -------
 In der Praxis haben wir mit der Klasse die 6-3-5 Methode angewandt. Diese Methode funktioniert folgendermassen: Es werden 6er Gruppen gebildet (bei uns waren es nur 5er Gruppen). Jeder aus der Gruppe schreibt drei Ideen zum genannten Thema auf. Danach werden diese drei Ideen an den Nachbarn weiter gereicht. Dieser ergänzt die Ideen. Das Ganze wird fünf mal wiederholt. Danach sind die Ideen wieder bei der Initialperson angekommen, die dann betrachten kann, was aus ihrer Idee geworden ist. 
