@@ -1,0 +1,1 @@
+Das ist ein Link zum [Lernjournal](../anhaenge/Lernjournal.pdf)

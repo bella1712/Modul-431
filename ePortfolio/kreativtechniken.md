@@ -4,7 +4,7 @@
 --------
 Unter Kreativitätstechniken versteht man Techniken, welche helfen sollen die Kreativität anzuregen. D.h. dass durch beispielsweise Rollenspiele oder Aufteilungen von Rollen und Ideen, neue Ideen generiert oder bereits bestehende Ideen ausgebaut und verbessert werden sollen. 
 Kurz zur Erläuterung: unter Kreativität versteht man die Fähigkeit neue Lösungen zu finden. Wissen befähigt die Kreativität. 
-Im Rahmen des Moduls 431 haben wir folgende Kreativitätstechniken (kurz) angeschaut: Brainstorming, Mind Map, Brainwriting Pool, 6-3-5 Methode, Walt-Disney-Methode, Osconr Chekcliste und 6 Denküte von de Bono.
+Im Rahmen des Moduls 431 haben wir folgende Kreativitätstechniken (kurz) angeschaut: Brainstorming, Mind Map, Brainwriting Pool, 6-3-5 Methode, Walt-Disney-Methode, Osconr Checkliste und 6 Denküte von de Bono.
 In diesem E-Portfolio möchte ich die Walt-Disney-Methode etwas näher betrachten, da die 6-3-5 Methode sich als unprofessionell mit Jugendlichen herausgestellt hat. Mehr dazu im Praxistransfer.
 Bei der Walt-Disney-Methode [^1] handelt es sich um eine Methode, die tatsächlich von Walt Disney stammt. Bei dieser Methode versetzt man sich in Charaktere hinein: Den Träumer, den Realisten und den Kritiker. 
 Der Träumer hat die Aufgabe seinen Fantasien freien Lauf zu lassen. Ihm kann die Realisierbarkeit egal sein. Seine Aufgabe ist es lediglich neue Zukunftsaussichten und Potenziale und Möglichkeiten zu schaffen.
@@ -26,3 +26,5 @@ Diese Methode war also mit unserer Klasse nicht so gelungen. Allerdings hat sie 
 
 ### Reflexion
 -------
+Kreativitätstechniken regen die Phantasie an und können helfen Probleme zu lokalisieren. Ich selbst habe am ehesten die Technik von de Bono verwendet. Mit hilfe des Moduls kann ich nun einige Kreativtechniken benennen und auch aktiv anwenden. Ich denke in Zukunft kann mir dies helfen, falls ich neue Ideen brauche, mich in jemanden hineinversetzen soll oder wenn ich einfach ein Problem verstehen will. 
+Kreativität ist immer eine gute Sache, denn sie begünstigt Fortschritt und Innovation. Daher kann es nicht schaden ein paar Backup Tricks in Petto zu haben um die Kreativität anzukurbeln. 
