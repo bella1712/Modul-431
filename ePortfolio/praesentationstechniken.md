@@ -12,3 +12,7 @@ Danach ist mir aufgefallen, dass wir in das Konzept geschrieben hatten, dass zu 
 
 ### Reflexion
 ------
+Präsentationstechniken helfen des Inhalt seriös und auch ruhig herüber zu bringen. Ich finde jeder sollte sich einmal mit diesem Thema auseinander gesetzt haben, da es nicht nur bei Präsentationen sondern auch im täglichen Umgang mit dem Mitmenschen helfen kann. Ein seriöses, selbstbewusstes, aber offenes Auftreten wirk automatisch deeskalierend. 
+Ich selbst wende diese Techniken schon lange an, da ich es an der Kantonsschule, wie auch der Universität oft gebraucht habe. Ich musste oft Präsentationen und Vorträge halten. Daher durfte ich feststellen, dass nichts unerträglicher ist, als zwanzig 0815-Vorträge ohne Passion oder ansatzweises Interesse präsentiert zu bekommen. Selbst wenn einen das Thema nicht interessiert hilft es, sich selbst zu belügen und in eine Art künstlichen Glückszustand zu versetzen um ein Thema passioniert und interessiert überliefern zu können. 
+Das Modul hat mir geholfen, mir meine angewöhnten Prozesse bewusst zu machen und zu hinterfragen, warum ich mich so während einer Präsentation verhalte, wie ich es eben tue. 
+Es war eine gute Repetition für mich. 

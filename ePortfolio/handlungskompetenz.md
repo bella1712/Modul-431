@@ -34,4 +34,7 @@ Wichtig ist noch zu erwähnen, dass ich das Projekt selbstständig mache. Ich ha
 
 ### Reflexion
 ------
-Handlungskompetenz ist ein wichtiger Aspekt im Beruf. 
+Handlungskompetenzen sind ein wichtiger Aspekt im Beruf. Sie ermöglicht es einem Verantwortung zu tragen und sich selbst weiter zu entwickeln. Ausserdem sind sie allgegenwärtig. 
+Vor diesem Modul war mir nicht so bewusst, was alles mit der Handlungskompetenz zusammenhängt, geschweige denn wusste ich, dass es mehrere davon gibt. Ich werde von nun an versuchen diese aktiver in mein Leben einzubindne und zu reflektieren, wo sie überall auftauchen. 
+Ausserdem haben ich diesem Aspekt noch ein paar Defizite: Bei der Arbeit kann ich mich zwar gut zusammen nehmen und weiss, dass ich eigenverantwortlich bin, ich arbeite aber hauptsächlich gut mit, weil ich weiss, dass ich es der Firma schuldig bin, da sie mich ja schliesslich bezahlt. In der Schule sieht das etwas anders aus... 
+Ich tendiere dazu alles immer auf den letzten Drücker zu machen, wenn es nur mich selbst betrifft. Das ist definitiv etwas, was ich in meiner eigenen Selbstkompetenz noch verbessern kann. Auch sollte ich es vermeiden Aktionen wie ein kopfloses Huhn anzugehen und stattdessen vorher einen Plan auszuarbeiten. D.h. ich könnte auch noch meine Methodenkompetenz etwas verbessern. 
