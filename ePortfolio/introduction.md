@@ -24,4 +24,4 @@ Jede E-Portfolioseite, welche sich mit Themen beschäftigt, folgt dem folgenden 
 - Erläuterung des Themas und Definitionen
 - Praxistransfer
 - Reflexion
-- Verlinkung zur Lernjournalseite
+
