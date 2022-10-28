@@ -7,6 +7,8 @@ Es folgen ein paar Beispiele.
 
 #### Das Wasserfallmodell
 ![Das Wasserfall-Modell](../anhaenge/wasserfallmodell-softwareentwicklung.jpg)
+<img src="../anhaenge/wasserfallmodell-softwareentwicklung.jpg" width ="200px">
+
 #### Das V-Modell
 ![Das V-Modell](../anhaenge/peco-v-modell-software-engineering-xl.png)
 
