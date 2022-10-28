@@ -7,24 +7,24 @@ Es folgen ein paar Beispiele.
 
 #### Das Wasserfallmodell
 <!--![Das Wasserfall-Modell](../anhaenge/wasserfallmodell-softwareentwicklung.jpg)-->
-<img src="/anhaenge/wasserfallmodell-softwareentwicklung.jpg" width="600" height="400">
+[^1]<img src="/anhaenge/wasserfallmodell-softwareentwicklung.jpg" width="600" height="400">
 
 #### Das V-Modell
 <!--![Das V-Modell](../anhaenge/peco-v-modell-software-engineering-xl.png)-->
-<img src="/anhaenge/peco-v-modell-software-engineering-xl.png" width="600" height="400"> 
+[^2]<img src="/anhaenge/peco-v-modell-software-engineering-xl.png" width="600" height="400"> 
 
 Es gibt allerdings auch agile Methoden. Das bedeutet, dass sie nicht statisch, sondern veränderbar und vorallem anpassbar sind. Sie erfolgen iterativ, also Schrittweise und nähern sich so peu à peu einer exakten Lösung an. Hier ein paar Beispiele zu den agilen Modellen:
 
 #### Das Spiralmodell
-![Das Spiralmodell](../anhaenge/400px-Spiralmodel.png)
+[^3]![Das Spiralmodell](../anhaenge/400px-Spiralmodel.png)
 
 #### Extreme Programming
 <!--![Extreme Programming](../anhaenge/Extreme-Programming-XP.webp)-->
-<img src="/anhaenge/Extreme-Programming-XP.webp" width="400">
+[^4]<img src="/anhaenge/Extreme-Programming-XP.webp" width="400">
 
 #### Scrum
 <!--![Scrum](../anhaenge/SCRUM-1.png)-->
-<img src="/anhaenge/SCRUM-1.png" width="400">
+[^5]<img src="/anhaenge/SCRUM-1.png" width="400">
 
 Wichtig ist, dass es einen Unterschied zwischen agil und ziellos zu sein: Agil heisst mit Hilfe von kleinen Schritten und einem beweglichen Ziel dem Kunden den Nutzbarkeiten zu geben, welche er sich wünscht und die Kundenzufriedenheit sicher zu stellen. 
 
@@ -38,6 +38,12 @@ Die zweite Phase ist das **Planen**: Hier geht es darum die Ressourcen, also Gel
 In der dritten Phase geht es um das **Realisieren**: Es erfolgt die Umsetzung der Planung, eine Kontrolle und allfällige Probleme erfahren Massnahmen um sie zu beheben. 
 Als letzte Phase folgt der **Abschluss**: Hier wird hinterfragt, ob die Ziele erreicht wurden und mögliche Gründe werden herausgefunden, falls die Ziele nicht erfüllt wurden. Dann wird hinterfragt, ob der Kunde zufrieden ist und eine Reflexion erfolgt. 
 Soweit zum Vierphasenmodell. Vorgehensmodelle finden sich in vielen Projekten und werden dort angewandt. In der IT ist das Scrum-Modell sehr beliebt. Ich habe selbst beobachten können, wie es in der Roche zum Einsatz kommt. Mehr dazu im Praxistransfer. 
+
+[^1]: [Wasserfallmodell](https://www.google.com/imgres?imgurl=https%3A%2F%2Fmanagement.bildungsbibel.de%2Fwp-content%2Fuploads%2F2020%2F05%2Fwasserfallmodell-softwareentwicklung.jpg&imgrefurl=https%3A%2F%2Fmanagement.bildungsbibel.de%2Fprojektmanagement-wasserfallmodell-softwareentwicklung-phasen&tbnid=-fKimRcoHiNTYM&vet=12ahUKEwjM7avqvoL7AhUiT6QEHYSMDFoQMygAegQIARAj..i&docid=PccO5sr7D4D3WM&w=1410&h=980&q=wasserfall%20modell%20bildungsbibel&ved=2ahUKEwjM7avqvoL7AhUiT6QEHYSMDFoQMygAegQIARAj)
+[^2]: [V-Modell](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.peterjohann-consulting.de%2F_images%2Fpeco-v-modell-software-engineering-xl.png&imgrefurl=https%3A%2F%2Fwww.peterjohann-consulting.de%2Fv-modell%2F&tbnid=pW1-mGgr8CdC-M&vet=12ahUKEwinq-T3voL7AhV0picCHe9rDEYQMygGegUIARDkAQ..i&docid=7C-ikmJN16r6WM&w=800&h=458&q=vmodell&ved=2ahUKEwinq-T3voL7AhV0picCHe9rDEYQMygGegUIARDkAQ)
+[^3]: [Spiralmodell](https://www.google.com/url?sa=i&url=https%3A%2F%2Fibkastl.de%2Fwiki%2FSpiralmodell&psig=AOvVaw0H2qZhZ0odjqQo5F7XCrPa&ust=1667031666431000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCLj8rYa_gvsCFQAAAAAdAAAAABAD)
+[^4]: [Extremeprogramming](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.digite.com%2Fwp-content%2Fuploads%2F2019%2F09%2FExtreme-Programming-XP.jpg&imgrefurl=https%3A%2F%2Fwww.digite.com%2Fagile%2Fextreme-programming-xp%2F&tbnid=Tr8FN8h-3ZJfZM&vet=12ahUKEwjhz8Oav4L7AhUcgCcCHQWJCHcQMygBegUIARDnAQ..i&docid=VYrmEoXrwMb3tM&w=1214&h=650&q=extremeprogramming&ved=2ahUKEwjhz8Oav4L7AhUcgCcCHQWJCHcQMygBegUIARDnAQ)
+[^5]: [Scrum](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.marketinginstitut.biz%2Fblog%2Fwp-content%2Fuploads%2F2020%2F09%2FSCRUM-1.png&imgrefurl=https%3A%2F%2Fwww.marketinginstitut.biz%2Fblog%2Fscrum%2F&tbnid=A3rNrZb-0iqLAM&vet=12ahUKEwid-K2wv4L7AhX7S6QEHQRJAT4QMyg9egQIARB6..i&docid=5lw78JzBGhladM&w=800&h=450&q=scrum&hl=en&ved=2ahUKEwid-K2wv4L7AhX7S6QEHQRJAT4QMyg9egQIARB6)
 
 ### Praxistransfer
 -------
