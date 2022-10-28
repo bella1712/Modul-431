@@ -6,6 +6,7 @@ Unter Kreativitätstechniken versteht man Techniken, welche helfen sollen die Kr
 Kurz zur Erläuterung: unter Kreativität versteht man die Fähigkeit neue Lösungen zu finden. Wissen befähigt die Kreativität. 
 Im Rahmen des Moduls 431 haben wir folgende Kreativitätstechniken (kurz) angeschaut: Brainstorming, Mind Map, Brainwriting Pool, 6-3-5 Methode, Walt-Disney-Methode, Osconr Checkliste und 6 Denküte von de Bono.
 In diesem E-Portfolio möchte ich die Walt-Disney-Methode etwas näher betrachten, da die 6-3-5 Methode sich als unprofessionell mit Jugendlichen herausgestellt hat. Mehr dazu im Praxistransfer.
+![Walt-Disney-Methode](../anhaenge/Walt-Disney-Konzept.webp)
 Bei der Walt-Disney-Methode [^1] handelt es sich um eine Methode, die tatsächlich von Walt Disney stammt. Bei dieser Methode versetzt man sich in Charaktere hinein: Den Träumer, den Realisten und den Kritiker. 
 Der Träumer hat die Aufgabe seinen Fantasien freien Lauf zu lassen. Ihm kann die Realisierbarkeit egal sein. Seine Aufgabe ist es lediglich neue Zukunftsaussichten und Potenziale und Möglichkeiten zu schaffen.
 Der Realist hat sich an der aktuellen Situation und an den aktuellen Begebenheiten. Er plant pragmatisch, geht faktisch vor und überlegt sich was zu tun ist, wie es realisierbar sein könnte und welche Ressourcen zu Verfügung stehen. 
@@ -16,6 +17,7 @@ Viele Kreativitätsmethode wirken so. Sie sollen den Horizont erweitern, die Pha
 
 
 [^1]: [Kreativitätstechniken.info | Walt-Disney-Methode](https://xn--kreativittstechniken-jzb.info/ideen-generieren/walt-disney-methode/)
+[^2]: [Walt-Disney-Methode Bild](https://www.google.com/url?sa=i&url=https%3A%2F%2Flech-bueroplanung.de%2Fleistungen%2Fwalt-disney-konzeption%2F&psig=AOvVaw0ps8Rxu_Rll7kABcDIqOtE&ust=1667033821692000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCOCKw4nHgvsCFQAAAAAdAAAAABAN)
 ### Praxistransfer
 -------
 In der Praxis haben wir mit der Klasse die 6-3-5 Methode angewandt. Diese Methode funktioniert folgendermassen: Es werden 6er Gruppen gebildet (bei uns waren es nur 5er Gruppen). Jeder aus der Gruppe schreibt drei Ideen zum genannten Thema auf. Danach werden diese drei Ideen an den Nachbarn weiter gereicht. Dieser ergänzt die Ideen. Das Ganze wird fünf mal wiederholt. Danach sind die Ideen wieder bei der Initialperson angekommen, die dann betrachten kann, was aus ihrer Idee geworden ist. 
