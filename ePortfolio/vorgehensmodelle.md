@@ -10,15 +10,21 @@ Es folgen ein paar Beispiele.
 <img src="/anhaenge/wasserfallmodell-softwareentwicklung.jpg" width="600" height="400">
 
 #### Das V-Modell
-![Das V-Modell](../anhaenge/peco-v-modell-software-engineering-xl.png)
+<!--![Das V-Modell](../anhaenge/peco-v-modell-software-engineering-xl.png)-->
+<img src="/anhaenge/peco-v-modell-software-engineering-xl.png" width="600" height="400"> 
 
 Es gibt allerdings auch agile Methoden. Das bedeutet, dass sie nicht statisch, sondern veränderbar und vorallem anpassbar sind. Sie erfolgen iterativ, also Schrittweise und nähern sich so peu à peu einer exakten Lösung an. Hier ein paar Beispiele zu den agilen Modellen:
+
 #### Das Spiralmodell
-![Das Spiralmodell](../anhaenge/400px-Spiralmodel.png) 
+![Das Spiralmodell](../anhaenge/400px-Spiralmodel.png)
+
 #### Extreme Programming
-![Extreme Programming](../anhaenge/Extreme-Programming-XP.webp)
+<!--![Extreme Programming](../anhaenge/Extreme-Programming-XP.webp)-->
+<img src="/anhaenge/Extreme-Programming-XP.webp" width="400">
+
 #### Scrum
-![Scrum](../anhaenge/SCRUM-1.png)
+<!--![Scrum](../anhaenge/SCRUM-1.png)-->
+<img src="/anhaenge/SCRUM-1.png" width="400">
 
 Wichtig ist, dass es einen Unterschied zwischen agil und ziellos zu sein: Agil heisst mit Hilfe von kleinen Schritten und einem beweglichen Ziel dem Kunden den Nutzbarkeiten zu geben, welche er sich wünscht und die Kundenzufriedenheit sicher zu stellen. 
 
