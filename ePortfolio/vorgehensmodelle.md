@@ -24,7 +24,7 @@ Wichtig ist, dass es einen Unterschied zwischen agil und ziellos zu sein: Agil h
 
 Im Folgenden möchte ich genauer auf das Vierphasenmodell eingehen. 
 #### Das Vierphasenmodell
-![Das vier-Phasen-Modell](anhaenge/../../anhaenge/4-Phasen-Modell.png)$
+![Das vier-Phasen-Modell](anhaenge/../../anhaenge/4-Phasen-Modell.png)
 
 Das Vierphasen-Modell ist ein statische Modell. Es folgt vier Phasen und ist einfach verständlich. 
 Die erste Phase ist die **Definition**: In dieser Phase wird erörtert wie die Ausgangslage und die Aufgabenstellung aussehen, es wird gefragt, ob idie Durchführbarkeit gewährleistet und eine Wirtschaftlichkeit geben ist? Das bedeutet, dass alle Kontextsachen geklärt werden um eine solide Ausgangslage zu schaffen. 
