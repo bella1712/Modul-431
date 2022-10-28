@@ -7,7 +7,7 @@ Es folgen ein paar Beispiele.
 
 #### Das Wasserfallmodell
 <!--![Das Wasserfall-Modell](../anhaenge/wasserfallmodell-softwareentwicklung.jpg)-->
-<img src="/anhaenge/wasserfallmodell-softwareentwicklung.jpg" width="200">
+<img src="/anhaenge/wasserfallmodell-softwareentwicklung.jpg" width="600" height="400">
 
 #### Das V-Modell
 ![Das V-Modell](../anhaenge/peco-v-modell-software-engineering-xl.png)
