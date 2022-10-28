@@ -4,6 +4,8 @@
 ------
  IPERKA ist eine Abkürzung. Sie steht für: Informieren, Planen, Entscheiden , Realisierien, Kontrollieren und Auswerten. IPERKA ist ein Konzept um ein Projekt realisieren zu können, indem man es in verschiedene Phasen unterteilt und nach der entsprechenden Phase handelt. 
 
+ ![IPERKA](../anhaenge/IPERKA.png)
+
 **Informieren:** In dieser Phase werden Informationen gesammelt. Zu diesen Informationen, welche gesammelt werden sollen, gehören Informationen zum Projekt, ev. dem Kunden und eine solide grundrecherche um ein Fundament des Projekts bauen zu können. 
 
 **Planen:** In dieser Phase wird die Planung vorgenommen. Um diese Phase umsetzen zu können, ist Phase eins, also die Informations-Phase unabdingbar, denn sie bildet das Fundament um eine Planung zu ermöglichen. D.h. es wird geschaut, wer alles am Projekt beteiligt sein sollte, welche Ressourcen benötigt werden, wer die verantwortlichen Personen sind, welches Budget zur Verfügung steht, etc. Prinzipiell werden in dieser Phase Vorschläge erarbeitet. 
